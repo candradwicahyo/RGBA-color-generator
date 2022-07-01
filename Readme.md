@@ -17,6 +17,6 @@ code editor yang saya pakai adalah **Acode** dan plugin yang saya pakai di progr
 
 ![result](https://github.com/candradwicahyo/RGBA-color-generator/blob/master/image.jpg)
 
-[tekan link ini](https://candradwicahyo.github.io/RGBA-color-generator)
+[tekan link ini](https://candradwicahyo.github.io/RGBA-color-generator) untuk mencoba program ini
 
 > dibuat oleh **candra dwi cahyo**
