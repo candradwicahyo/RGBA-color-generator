@@ -1,4 +1,4 @@
-# RGBA Coloe Generator
+# RGBA Color Generator
 
 sebuah program dengan nama RGBA color generator yang dibuat menggunakan bahasa pemrograman javascript
 
